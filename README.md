@@ -1,0 +1,2 @@
+# ssToPdf_converting_system
+スプレッドシートをPDFに一括で変換するシステムのSSのコンテナバインドスクリプト
